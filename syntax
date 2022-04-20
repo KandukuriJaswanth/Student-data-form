@@ -1,0 +1,15 @@
+Syntax: registration
+<div class="html_form">
+    <form>
+        <h2>Register</h2>
+        <label>Full Name</label>
+        <input type="text" name="" placeholder="Full Name" required><br>
+        <input type=""
+    </form>
+ Syntax for table:
+ <div class="html_table">
+<h2>Student Data</h2>
+    <table>
+        <tr><th> Name</th><th>Email</th><th>Branch</th><th>College</th></tr>
+    </table>
+</div>
