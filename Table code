@@ -1,0 +1,9 @@
+<div class="html_table">
+<h2>Student Data</h2>
+    <table>
+        <tr><td>Sai</td><td>kandsai1@gmail.com</td><td>IT</td><td>SRM</td></tr>
+        <tr><td>Maha</td><td>maha1@gmail.com</td><td>CSE</td><td>SRM</td></tr>
+        <tr><td>Saketh</td><td>saketh1@gmail.com</td><td>Civil</td><td>SRM</td></tr>
+        <tr><td>Meher</td><td>meher4@gmai.com</td><td>IT</td><td>ARM</td></tr>
+    </table>
+</div>
