@@ -106,6 +106,15 @@
    }
     </style>
 </head>
+<div class="html_form">
+    <form>
+        <h2>Register</h2>
+        <label>Full Name</label>
+        <input type="text" name="" placeholder="Full Name" required><br>
+        <input type="email" name="" placeholder="Email ID" required><br>
+        <input type="number" name="" placeholder="Contact Number" required><br>
+        <input type=""
+    </form>
 <div class="html_table">
 <h2>Student Data</h2>
     <table>
@@ -116,15 +125,6 @@
         <tr><td>Meher</td><td>meher4@gmai.com</td><td>IT</td><td>ARM</td></tr>
     </table>
 </div>
-<div class="html_form">
-    <form>
-        <h2>Register</h2>
-        <label>Full Name</label>
-        <input type="text" name="" placeholder="Full Name" required><br>
-        <input type="email" name="" placeholder="Email ID" required><br>
-        <input type="number" name="" placeholder="Contact Number" required><br>
-        <input type=""
-    </form>
 </div>
 </body>
 </html>
